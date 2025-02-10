@@ -12,7 +12,7 @@ O projeto **TAREFA U4C6** implementa um sistema interativo que permite:
 ---
 
 ## 🎥 **Demonstração em Vídeo**
-🔗 **Assista à demonstração do projeto no YouTube:**  
+🔗 https://youtube.com/shorts/EwSZflzCO50?feature=share  
 
 
 ---
