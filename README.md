@@ -34,7 +34,7 @@ O projeto **TAREFA U4C6** implementa um sistema interativo que permite:
 ✅ Exibição de **mensagens de status**  
 ✅ Comunicação via **I2C**
 
-### 🔳 **Matriz LED WS2812**
+### 🔳 **Matriz LED WS2818**
 ✅ Padrões **5x5** para representação de números  
 ✅ Controle **individual** de cada LED RGB  
 ✅ Comunicação eficiente via **PIO**
